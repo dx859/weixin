@@ -1,0 +1,31 @@
+{
+  "name": "weixin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "bluebird": "^3.3.4",
+    "koa": "^1.2.0",
+    "raw-body": "^2.1.6",
+    "request": "^2.70.0",
+    "sha1": "^1.1.1",
+    "xml2js": "^0.4.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dx859/weixin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dx859/weixin/issues"
+  },
+  "homepage": "https://github.com/dx859/weixin#readme"
+}
